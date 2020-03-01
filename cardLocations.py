@@ -1,0 +1,1 @@
+VANILLA = "Vanilla Monster Box"
